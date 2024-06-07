@@ -142,3 +142,11 @@ for estado in estados_mexico:
     imagen.save(os.path.join(carpetaPortadas, slugify(text)+".webp"), "WEBP", quality=20)
     # genera la url de la imagen de portada
     print (dominio + "/wp-content/uploads/"+str(y)+"/"+ "{:02d}".format(mes) + "/" +slugify(text) + ".webp")
+
+
+imagen = Image.open("generarPortada/img.jpg")
+font = ImageFont.truetype(fontype, 100)
+text = f"Texto de prueba corto"
+imagen = Image.open("generarPortada/img.jpg")
+imagen = draw_centered_text(imagen, text, font)
+imagen.save(os.path.join(carpetaPortadas, slugify(text)+".webp"), "WEBP", quality=20)
