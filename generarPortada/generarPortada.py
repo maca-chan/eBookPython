@@ -78,9 +78,6 @@ estados_mexico = [
     "Zacatecas"
 ]
 
-#for estado in estados_mexico:
-#    print(get_portada(estado, "generarPortada/img.jpg"))
-
 def draw_centered_text(image, text, font, color=(255, 255, 255)):
     """
     Draws centered text on the given image.
