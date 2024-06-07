@@ -1,7 +1,7 @@
 # Recursos del [ebook de Python](https://macachan.gumroad.com/l/cqvnso)
 
-- [Ejercicios para principiantes de Python](https://github.com/maca-chan/python-ejercicios)
+- [Ejercicios para principiantes de Python](wp-import)
 
 - [Código para lanzar peticiones a Openai](https://github.com/maca-chan/wp-import)
-- [Scrapeando datos de Twitter](https://github.com/maca-chan/scraping_twitta)
-- [Generación de portadas para Wordpress](https://github.com/maca-chan/eBookPython/blob/main/generarPortada.py)
+- [Scrapeando datos de Twitter](scraping-twitta)
+- [Generación de portadas para Wordpress](generarPortada)
