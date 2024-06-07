@@ -1,4 +1,4 @@
-# eBookPython
+# Recursos del [ebook de Python](https://macachan.gumroad.com/l/cqvnso)
 
 - [Ejercicios para principiantes de Python](https://github.com/maca-chan/python-ejercicios)
 
